@@ -1,5 +1,5 @@
 # CargoPortSystem
-A cargo port system manages the movement of ships around a port, including loading and unload- ing ships at quays, storing cargo at the port temporarily, and managing a queue of ships waiting offshore to dock at the port. The system also keeps track of statistics relating to the port’s operations.
+A cargo port system manages the movement of ships around a port, including loading and unloading ships at quays, storing cargo at the port temporarily, and managing a queue of ships waiting offshore to dock at the port. The system also keeps track of statistics relating to the port’s operations.
 
 A port is made up of several quays2, which are designed to accommodate specific types of ships.   Ships are separated into two types: container ships and bulk carriers.   Container ships carry ship- ping containers of various types, while bulk carriers are designed to hold large quantities of bulk cargo, such as grain, minerals, or oil.
 
